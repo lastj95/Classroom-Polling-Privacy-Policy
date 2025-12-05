@@ -1,6 +1,7 @@
 When using a Classroom Polling account, users enter a valid email, username, and password to sign up. These are collected and stored securely on the app’s database, and are not shown to anyone besides the app’s creators (James Last & James Thao) and their advisor (Dr. Michael Rogers) when examining said database. In the future, this app may be managed by the University of Wisconsin Oshkosh’s Computer Science department, so any faculty within that group may see this information in the future as well. Passwords are hashed and salted so that nobody can actually truly “view” them.
 Do note that joining a class with the app does share the email and username of that account with the instructor who created the class, but that the instructor is unable to see which students answered what on polls (they may only view the answers themselves). Only the aforementioned subjects (James Last, James Thao, Dr. Michael Rogers, UWO CS department staff) are able to connect answers to specific accounts via the database.
 No user information is shared with others not mentioned here, for profit or otherwise.
+If a user wishes to have their account data removed, they may do so through the app (recommended) or by filling out this form: https://docs.google.com/forms/d/e/1FAIpQLSdE6yY3oC7E-cNino0pdKt7TtyYud_s2un4L-r1qPxdJJw6Fw/viewform?usp=header
 This privacy policy may be updated at any time by the aforementioned subjects (James Last, James Thao, Dr. Michael Rogers, UWO CS department staff) and should be checked whenever users have concerns about how their data is being used.
 
-Revised as of 2025/12/2
+Revised as of 2025/12/4
